@@ -1,0 +1,21 @@
+body{
+	background:#ccc;
+}
+.ccc{
+	background:white;
+	color:black;
+	border:1px solid black;
+	height:600px;
+	margin-top: 30px;
+}
+.ccc span
+{
+	display:block;
+}
+
+.formMessage
+{
+	position: absolute;
+	bottom:0px;
+	left:0px;
+}
